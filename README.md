@@ -1,8 +1,8 @@
-# Void Mic 🎙️
+# YaP Mic 🎙️
 
-**Void Mic** is a robust, cross-distribution Linux application that creates a high-performance virtual microphone. It allows you to inject audio from local files or web streams (YouTube, etc.) directly into voice chat applications like Discord, Zoom, or OBS, all while maintaining a sleek "Void and Violet" aesthetic.
+**YaP Mic** is a robust, cross-distribution Linux application that creates a high-performance virtual microphone. It allows you to inject audio from local files or web streams (YouTube, etc.) directly into voice chat applications like Discord, Zoom, or OBS, all while maintaining a sleek "Void and Violet" aesthetic.
 
-![Void Mic Banner](https://via.placeholder.com/800x200?text=Void+Mic+Application)
+![YaP Mic Banner](https://via.placeholder.com/800x200?text=YaP+Mic+Application)
 
 ## 🚀 Features
 
@@ -23,8 +23,8 @@
 ### Quick Start
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/void-mic.git
-    cd void-mic
+    git clone https://github.com/...
+    cd ...
     ```
 
 2.  **Launch the Application**
@@ -52,7 +52,7 @@ Once Void Mic is running, configure your target application (e.g., Discord):
 3.  *Recommended*: Disable "Noise Suppression" and "Echo Cancellation" in Discord for best audio quality.
 
 ## 📦 Dependencies
-Void Mic leverages powerful open-source tools:
+YaP Mic leverages powerful open-source tools:
 *   [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - Modern GUI framework.
 *   [python-mpv](https://github.com/jaseg/python-mpv) - Libmpv bindings for playback.
 *   [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Command-line video downloader for stream extraction.
